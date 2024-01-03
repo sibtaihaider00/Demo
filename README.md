@@ -1,2 +1,2 @@
 # Demo
-this is fist Git repository
+this is my fist Git repository
